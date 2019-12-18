@@ -1,0 +1,14 @@
+
+.blue{
+    width: 100%;
+    margin-bottom: 20%;
+    color: white!important;
+    background-color: blue!important;
+}
+.header{
+    color: yellow;
+    font-weight: bolder;
+}
+body{
+    background-color: blue;
+}
